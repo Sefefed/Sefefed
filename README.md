@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?text=Hey
 # 💫 About Me:
 👋 Hey there! I'm Sefefe, an aspiring Software Engineer with a strong passion for web and mobile app development. I'm on a journey to master HTML, CSS, Tailwind CSS, Bootstrap, and JavaScript, with plans to dive deeper into modern frameworks and backend technologies.<br><br>💡 Short-term Goal: Build a solid understanding of web and mobile development skills.<br>🚀 Long-term Goal: Create my own huge and amazing tech company that makes an impact in the world!<br><br>🛠 Projects:<br><br>🔹 Hotel Management System (C++) – A system designed to manage hotel reservations efficiently.<br>🔹 Personal Website (Coming soon) – A portfolio to showcase my journey and projects.<br>🌱 I’m always learning new things, especially in tech, and I love exploring innovations that push boundaries.<br><br>📫 Let's connect! Feel free to check out my projects and collaborate.
 
