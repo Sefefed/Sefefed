@@ -1,18 +1,110 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A Digital Library Web App tailored for Ethiopian students, built using HTML, CSS, JavaScript, and Node.js, with plans to integrate MongoDB and authentication features. I'm also improving my skills through Data Structures & Algorithms practice daily.<br><br>🤝 I’m looking to collaborate on<br>Open-source educational platforms, web tools for local communities, or any projects that involve full-stack development, especially those using React, Node.js, or Tailwind CSS.<br><br>🧠 I’m looking for help with<br>Optimizing backend performance, handling authentication securely, and learning how to scale full-stack apps. Any tips or best practices are highly welcome!<br><br>🌱 I’m currently learning<br>JavaScript (Advanced)<br><br>Tailwind CSS<br><br>React.js<br><br>Networking (HCIA-Datacom)<br><br>Cybersecurity basics<br><br>Git & GitHub workflow<br><br>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.deno.dev/:Sefefed:/count.svg" alt="Visitor Count" />
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sefefed&style=for-the-badge" alt="Profile Views Badge"/>
+</div>
+<br>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sefefe.dagne@aastustudent.edu.et) 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=850&height=70&color=4C9AFF&duration=4000&lines=Hello+World!+🌍;+I'm+Sefefe+Dagne!;MERN+Stack+Developer;Clean+Code+Advocate+%7C+Tech+Explorer" />
+</h1>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sefefed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sefefed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sefefed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <i>"Building the future, one line of code at a time."</i>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sefefed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me & GitHub Stats
+
+<details>
+<summary>Click to expand About Me</summary>
+
+I’m a **MERN Stack Developer** passionate about creating robust, scalable, and user-friendly web applications. My work blends clean code principles with modern development practices to build solutions that are both functional and elegant.
+
+- 🔭 **Currently working on:** Web applications that solve real-world problems  
+- 🌱 **Learning:** Advanced system design, scalable backend architectures, and cloud deployment strategies  
+- 🤝 **Looking to collaborate on:** Open-source projects and innovative web platforms  
+- 📫 **Reach me at:** [sefefedagne6@gmail.com](mailto:sefefedagne6@gmail.com)  
+- 💼 **Portfolio:** Coming soon
+
+</details>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sefefed&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sefefed&theme=transparent&count_private=true&border_radius=10" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sefefed&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" />
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=redux,git,postman,figma,java,python,cpp" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="300" valign="top">
+
+### 📦 [JAVASCRIPT-AMAZON-PROJECT](https://github.com/Sefefed/JAVASCRIPT-AMAZON-PROJECT)  
+🛒 A JavaScript-based Amazon clone that replicates core e-commerce features such as product listings, shopping cart, and checkout functionality.  
+**Tech:** HTML, CSS, JavaScript  
+
+</td>
+
+<td width="300" valign="top">
+
+### 🏥 [Hospital Management System](https://github.com/Sefefed/hospital_management_system)  
+A C++ Hospital Management System for managing patients, staff, appointments, billing, and feedback with file handling and console-based interaction.  
+**Tech:** C++  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="300" valign="top">
+
+### 🏛️ [Project-for-G25](https://github.com/Summer-Camp-Project/Project-for-G25)  
+A group project developed during the INSA Summer Camp for managing and digitalizing Ethiopian heritage. Focuses on preserving cultural assets by making heritage information easily accessible.  
+**Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB  
+
+</td>
+
+<td width="300" valign="top">
+
+🚧 *Main Project Coming Soon...* 🚧  
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:sefefedagne6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sefefe-dagne-26a2a3342">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sefefed">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
