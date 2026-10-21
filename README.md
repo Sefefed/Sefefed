@@ -1,212 +1,214 @@
-<!-- Animated Banner -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=200&q=80" alt="Developer Banner" width="100%" />
-</div>
 
-<!-- Visitor & Profile Badges -->
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.deno.dev/:Sefefed:/count.svg" alt="Visitor Count" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sefefed&style=for-the-badge" alt="Profile Views Badge"/>
-</div>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1800&color=4C9AFF&center=true&vCenter=true&width=760&lines=Software+Engineering+%40+AASTU+%7C+Dean's+Award;A2SV+Fellow+%7C+Top+5+of+160;Team+Lead+%40+INSA+Cyber+Talent+Team;Seeking+Summer+2027+Software+Engineering+Internships" alt="Typing intro" />
 
-<!-- Typing SVG Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=850&height=70&color=4C9AFF&duration=4000&lines=Hello+World!+💻;+I'm+Sefefe+Dagne!;MERN+Stack+Developer;Clean+Code+Advocate+%7C+Tech+Explorer" />
-</h1>
+<br/>
 
-<p align="center">
-  <i>"Building the future, one line of code at a time." 🚀</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefefe-dagne-26a2a3342)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefefedagne6@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/surffac)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sefefed)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sefefed)
 
----
+![Profile views](https://komarev.com/ghpvc/?username=Sefefed&label=Profile+views&color=2C5364&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Sefefed?label=Followers&style=flat-square&color=2C5364)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSefefed&query=%24.public_repos&label=Public%20repos&style=flat-square&color=2C5364)
 
-<!-- About Me -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=FF5733&duration=3000&lines=About+Me" />
-</h2>
+**[About](#about) · [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [Experience](#experience-and-recognition) · [Problem Solving](#problem-solving) · [Stats](#github-stats) · [Contact](#get-in-touch)**
 
-<details>
-<summary>Click to expand About Me</summary>
-
-I’m a **MERN Stack Developer** passionate about creating scalable, interactive, and user-friendly web applications. My work blends **clean code**, **modern practices**, and **problem-solving** to deliver high-quality solutions.  
-
-### 🔹 Highlights
-- 🔭 **Currently working on:** Innovative web platforms and real-world apps  
-- 🌱 **Learning:** Advanced system design, cloud deployment, scalable backend architectures  
-- 💡 **Fun Fact:** I love solving algorithm challenges and exploring new tech  
-- 🤝 **Open to collaborate:** Open-source projects, startups, innovative platforms  
-- 📫 **Reach me at:** [sefefedagne6@gmail.com](mailto:sefefedagne6@gmail)  
-- 💼 **Portfolio:** Coming soon  
-
-</details>
-
----
-
-<!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=GitHub+Stats" />
-</h2>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sefefed&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sefefed&theme=transparent&count_private=true&border_radius=10" />
-</div>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sefefed&layout=donut&theme=transparent&langs_count=8&hide_border=false" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=Sefefed&theme=radical" />
 </div>
 
 ---
 
-<!-- Tech Stack -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=FF5733&duration=3000&lines=Tech+Stack" />
-</h2>
+## About
 
-<p align="center">
-  <!-- Frontend -->
-  <b>Frontend:</b>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+I'm a Software Engineering undergraduate at **Addis Ababa Science and Technology University (AASTU)**, graduating in **May 2028**. I build backend-heavy systems, care about how things work underneath, and train algorithms daily.
 
-<p align="center">
-  <!-- Backend -->
-  <b>Backend:</b>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+- 🎓 **Dean's Award** for the highest overall grade
+- 🚀 **A2SV fellow** (Google-backed program), ranked **top 5 of 160**
+- 🛡️ **Team Lead**, INSA Cyber Talent Team
+- 🤖 **Intern**, iCog Labs (AI and Robotics R&D, Addis Ababa)
+- 🧩 **700+ problems solved** across LeetCode and Codeforces
+- 📍 Addis Ababa, Ethiopia
 
-<p align="center">
-  <!-- Languages & Tools -->
-  <b>Languages & Tools:</b>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+### What I'm focused on right now
+
+| | |
+|---|---|
+| 🔭 **Building** | Distributed systems, full-stack AI products, backend services |
+| 🌱 **Learning** | System design, LLM engineering, concurrency, database internals |
+| 🏋️ **Practicing** | Data structures and algorithms, contest problems in C++ and Python |
+| 💼 **Looking for** | Summer 2027 software engineering internships |
+
+### Core strengths
+
+| Area | What it means in practice |
+|---|---|
+| **Algorithms and data structures** | Contest-tested problem solving, with attention to complexity and why a technique works |
+| **Backend and distributed systems** | RMI services, concurrent transactions, REST APIs, relational and document databases |
+| **Full-stack delivery** | React and Node.js products from schema design to UI |
+| **Applied AI** | Integrating LLM into Applications |
 
 ---
 
-<!-- Skill Levels -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=Skill+Levels" />
-</h2>
+## Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-75%25-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-70%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
----
-
-<!-- Projects -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=FF5733&duration=3000&lines=Featured+Projects" />
-</h2>
-
-<details>
-<summary>Click to expand Projects</summary>
-
-<div align="center">
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="300" valign="top">
+### 🏦 BrokerCraft
+**Distributed stock brokerage system in Java 17**
 
-### 📦 [JAVASCRIPT-AMAZON-PROJECT](https://github.com/Sefefed/JAVASCRIPT-AMAZON-PROJECT)  
-🛍️ JavaScript-based Amazon clone replicating product listings, shopping cart, and checkout functionality.  
-**Tech:** HTML, CSS, JavaScript  
-![Demo](https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=200&q=80)
+Clients and servers communicate over **Java RMI**, with safe **concurrent transaction** handling, **Geometric Brownian Motion** price simulation, and **MySQL** persistence.
 
-</td>
+`Java 17` `RMI` `Concurrency` `MySQL` `GBM`
 
-<td width="300" valign="top">
-
-### 🏥 [Hospital Management System](https://github.com/Sefefed/hospital_management_system)  
-🏨 C++ console-based Hospital Management System managing patients, staff, appointments, and billing.  
-**Tech:** C++  
-![Demo](https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=200&q=80)
+[View repository →](https://github.com/Sefefed/BrokerCraft)
 
 </td>
+<td width="50%" valign="top">
 
+### 💸 RENEWLY
+**Full-stack AI finance platform**
+
+A web application for personal finance with AI features powered by **Google Gemini**.
+
+`React` `Node.js` `Express` `MongoDB` `Google Gemini`
+
+[View repository →](https://github.com/Sefefed/RENEWLY)
+
+</td>
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="300" valign="top">
+### 📝 ExamCraft Studio
+**JavaFX desktop exam platform**
 
-### 🏛️ [Project-for-G25](https://github.com/Summer-Camp-Project/Project-for-G25)  
-🌍 Digitalizing Ethiopian heritage during INSA Summer Camp. Preserves cultural assets and makes info accessible.  
-**Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB  
-![Demo](https://images.unsplash.com/photo-1558901382-b6989e140bc8?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=200&q=80)
+A desktop application for building and running exams.
 
-</td>
+`Java` `JavaFX` `OOP`
 
-<td width="300" valign="top">
-
-🚧 *Main Project Coming Soon...* 🚧  
+[View repository →](https://github.com/Sefefed/ExamCraft-Studio)
 
 </td>
+<td width="50%" valign="top">
 
+### 🏛️ Ethiopian Heritage Platform
+**Built at the INSA Summer Camp**
+
+A team project that digitalizes Ethiopian cultural heritage, preserving assets and making the information accessible online.
+
+`React` `Tailwind CSS` `Node.js` `Express` `MongoDB`
+
+[View repository →](https://github.com/Summer-Camp-Project/Project-for-G25)
+
+</td>
 </tr>
 </table>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data and Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## Experience and Recognition
+
+| Role | Where | Highlights |
+|---|---|---|
+| **Intern**, AI and Robotics | iCog Labs, Addis Ababa | Internship at an AI and Robotics R&D company, started September 2026 |
+| **Fellow** | A2SV (Google-backed) | Ranked top 5 of 160 in an intensive data structures and algorithms program |
+| **Team Lead** | INSA Cyber Talent Team | Led a team through the INSA program and built a heritage platform |
+| **Student** | AASTU, B.Sc. Software Engineering | Dean's Award for highest overall grade, graduating May 2028 |
+
+---
+
+## Problem Solving
+
+I treat algorithms as a core engineering skill. I practice mostly in **Python** for interview-style problems on LeetCode and in **C++** for Codeforces contests, and I focus on understanding why a technique works, not memorizing templates.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Sefefed">
+  <img src="https://leetcard.jacoblin.cool/Sefefed?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" width="48%" />
+</a>
+<a href="https://codeforces.com/profile/Sefefed">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sefefed" alt="Codeforces stats" width="48%" />
+</a>
+
 </div>
-</details>
 
 ---
 
-<!-- Achievements -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=Achievements+%26+Contributions" />
-</h2>
+## GitHub Stats
 
-<details>
-<summary>Click to expand GitHub Achievements</summary>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sefefed&theme=radical&row=2&column=4&margin-w=10" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sefefed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sefefed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-- 🌟 Contributed to open-source projects  
-- ✅ Completed 3+ major group projects  
-- 🏅 Participated in coding bootcamps & hackathons  
-- 🔧 Consistently active in GitHub community  
+<img width="97%" src="https://streak-stats.demolab.com?user=Sefefed&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-</details>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sefefed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" width="97%" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sefefed/Sefefed/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sefefed/Sefefed/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sefefed/Sefefed/output/github-snake.svg" width="97%" />
+</picture>
+
+</div>
 
 ---
 
-<!-- Connect -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=FF5733&duration=3000&lines=Connect+with+Me" />
-</h2>
+## Get in Touch
 
-<p align="center">
-  <a href="mailto:sefefedagne6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sefefe-dagne-26a2a3342">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sefefed">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I'm open to **Summer 2027 software engineering internships**, collaborations, and interesting engineering problems.
+
+- 📧 [sefefedagne6@gmail.com](mailto:sefefedagne6@gmail.com)
+- 💼 [linkedin.com/in/sefefe-dagne-26a2a3342](https://www.linkedin.com/in/sefefe-dagne-26a2a3342)
+- ✈️ [@surffac](https://t.me/surffac)
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=2500&color=8FA3B5&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by.+Let's+build+something." alt="Closing line" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C5364,50:203A43,100:0F2027&section=footer" width="100%" alt="footer" />
+</div>
